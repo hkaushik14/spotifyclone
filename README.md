@@ -32,15 +32,16 @@ This project mimics the core UI and basic music-playing functionality of Spotify
 ---
 
 ## 📁 Project Structure
-spotifyclone/
-│
-├── css/ → Stylesheets
-├── js/ → JavaScript logic
-├── img/ → Images & icons
-├── songs/ → Audio files
-├── index.html → Main HTML file
-├── favicon.ico
-└── README.md
+
+    spotifyclone/
+    │
+    ├── css/        # Stylesheets
+    ├── js/         # JavaScript logic
+    ├── img/        # Images & icons
+    ├── songs/      # Audio files
+    ├── index.html  # Main HTML file
+    ├── favicon.ico
+    └── README.md
 
 
 ---
